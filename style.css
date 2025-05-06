@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+.body{
+    font-family: "Plus Jakarta Sans", sans-serif; 
+    background-color: #FAFAFA;
+}
+.large-text{
+    font-size: 64px;
+    font-weight: 700;
+}
+
+::-webkit-scrollbar{
+    width: 7px;
+    height: 15px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #BB2D3B;
+}
